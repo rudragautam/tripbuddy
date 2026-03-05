@@ -1,0 +1,114 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum UserRole {
+  ADMIN
+  USER
+}
+
+enum BookingStatus {
+  PENDING
+  CONFIRMED
+  CANCELLED
+}
+
+enum PaymentStatus {
+  PENDING
+  SUCCESS
+  FAILED
+}
+
+model User {
+  id          Int        @id @default(autoincrement())
+  name        String
+  email       String     @unique
+  password    String
+  role        UserRole   @default(USER)
+  phone       String?
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+
+  bookings    Booking[]
+  reviews     Review[]
+}
+
+model Destination {
+  id          Int      @id @default(autoincrement())
+  name        String
+  country     String
+  description String?
+  createdAt   DateTime @default(now())
+
+  tours       Tour[]
+}
+
+model Category {
+  id        Int      @id @default(autoincrement())
+  name      String   @unique
+  createdAt DateTime @default(now())
+
+  tours     Tour[]
+}
+
+model Tour {
+  id            Int          @id @default(autoincrement())
+  title         String
+  description   String
+  price         Float
+  durationDays  Int
+  maxGuests     Int
+  imageUrl      String?
+  createdAt     DateTime     @default(now())
+
+  destinationId Int
+  categoryId    Int
+
+  destination   Destination  @relation(fields: [destinationId], references: [id])
+  category      Category     @relation(fields: [categoryId], references: [id])
+
+  bookings      Booking[]
+  reviews       Review[]
+}
+
+model Booking {
+  id        Int            @id @default(autoincrement())
+  userId    Int
+  tourId    Int
+  guests    Int
+  status    BookingStatus  @default(PENDING)
+  createdAt DateTime       @default(now())
+
+  user User @relation(fields: [userId], references: [id])
+  tour Tour @relation(fields: [tourId], references: [id])
+
+  payment Payment?
+}
+
+model Payment {
+  id         Int           @id @default(autoincrement())
+  bookingId  Int           @unique
+  amount     Float
+  status     PaymentStatus @default(PENDING)
+  paymentRef String?
+  createdAt  DateTime      @default(now())
+
+  booking Booking @relation(fields: [bookingId], references: [id])
+}
+
+model Review {
+  id        Int      @id @default(autoincrement())
+  userId    Int
+  tourId    Int
+  rating    Int
+  comment   String?
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id])
+  tour Tour @relation(fields: [tourId], references: [id])
+}
