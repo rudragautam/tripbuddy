@@ -1,0 +1,2494 @@
+{
+  "darjeeling": {
+    "stops": {
+      "Tiger Hill": {
+        "src": "/images/places/darjeeling/tiger-hill.jpg",
+        "alt": "Tiger Hill, Darjeeling",
+        "width": 640,
+        "height": 480,
+        "author": "Shahnoor Habib Munmun",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiger_Hill_Darjeeling_West_Bengal_India_(3).JPG"
+      },
+      "Batasia Loop": {
+        "src": "/images/places/darjeeling/batasia-loop.jpg",
+        "alt": "Batasia Loop",
+        "width": 640,
+        "height": 527,
+        "author": "Shuvankar Sarkar",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Batasia_Loop_War_Memorial_with_Kanchanjunga.jpg"
+      },
+      "Happy Valley Tea Estate": {
+        "src": "/images/places/darjeeling/happy-valley-tea-estate.jpg",
+        "alt": "Happy Valley Tea Estate",
+        "width": 640,
+        "height": 424,
+        "author": "Matt Stabile",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Happy_Valley_Tea_Estate,_Darjeeling.jpg"
+      },
+      "Mirik Lake": {
+        "src": "/images/places/darjeeling/mirik-lake.jpg",
+        "alt": "Mirik",
+        "width": 640,
+        "height": 427,
+        "author": "Benoy",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirik_Sumendu_Lake.jpg"
+      },
+      "Kalimpong": {
+        "src": "/images/places/darjeeling/kalimpong.jpg",
+        "alt": "Kalimpong",
+        "width": 640,
+        "height": 427,
+        "author": "Bernard Gagnon",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Kalimpong,_India.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/darjeeling/hero.jpg",
+      "alt": "Darjeeling",
+      "width": 1280,
+      "height": 768,
+      "author": "Souviknshm",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanchenjunga_range_from_tea_gardens_of_darjeeling.jpg"
+    }
+  },
+  "jaisalmer": {
+    "stops": {
+      "Jaisalmer Fort": {
+        "src": "/images/places/jaisalmer/jaisalmer-fort.jpg",
+        "alt": "Jaisalmer Fort",
+        "width": 640,
+        "height": 267,
+        "author": "Gérard Janot",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaisalmer_forteresse.jpg"
+      },
+      "Gadisar Lake": {
+        "src": "/images/places/jaisalmer/gadisar-lake.jpg",
+        "alt": "Gadisar Lake",
+        "width": 640,
+        "height": 320,
+        "author": "WikiPanti",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_entrance_of_Gadisar_Lake.jpg"
+      },
+      "Kuldhara": {
+        "src": "/images/places/jaisalmer/kuldhara.jpg",
+        "alt": "Kuldhara",
+        "width": 640,
+        "height": 360,
+        "author": "Dinesh Valke from Thane, India",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuldhara,_an_abandoned_village_(30738705327).jpg"
+      },
+      "Tanot Mata": {
+        "src": "/images/places/jaisalmer/tanot-mata.jpg",
+        "alt": "Tanot Mata Temple",
+        "width": 640,
+        "height": 853,
+        "author": "TheSanjayDangar",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tanot_Victory_Pillar.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/jaisalmer/hero.jpg",
+      "alt": "Jaisalmer Fort",
+      "width": 1280,
+      "height": 533,
+      "author": "Gérard Janot",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaisalmer_forteresse.jpg"
+    }
+  },
+  "goa": {
+    "stops": {
+      "Fort Aguada": {
+        "src": "/images/places/goa/fort-aguada.jpg",
+        "alt": "Fort Aguada",
+        "width": 640,
+        "height": 480,
+        "author": "Nanasur at English Wikipedia",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_aguada.jpg"
+      },
+      "Basilica of Bom Jesus": {
+        "src": "/images/places/goa/basilica-of-bom-jesus.jpg",
+        "alt": "Basilica of Bom Jesus",
+        "width": 640,
+        "height": 452,
+        "author": "iMahesh",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_Elevation_of_Basilica_of_Bom_Jesus.jpg"
+      },
+      "Fontainhas": {
+        "src": "/images/places/goa/fontainhas.jpg",
+        "alt": "Fontainhas (quarter)",
+        "width": 640,
+        "height": 427,
+        "author": "iMahesh",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Road_along_Vasco-da-gama_residence_in_Fontainhas,_Panaji.jpg"
+      },
+      "Anjuna": {
+        "src": "/images/places/goa/anjuna.jpg",
+        "alt": "Anjuna",
+        "width": 640,
+        "height": 427,
+        "author": "Vyacheslav Argenberg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anjuna_Beach,_Goa,_India,_Legendary_Curlies_beach_shack.jpg"
+      },
+      "Chapora Fort": {
+        "src": "/images/places/goa/chapora-fort.jpg",
+        "alt": "Chapora Fort",
+        "width": 640,
+        "height": 227,
+        "author": "Nikhilb239",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Chapora_26012016.jpg"
+      },
+      "Palolem": {
+        "src": "/images/places/goa/palolem.jpg",
+        "alt": "Palolem Beach",
+        "width": 640,
+        "height": 360,
+        "author": "iMahesh",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palolem_Beach,_South_Goa.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/goa/hero.jpg",
+      "alt": "Palolem Beach",
+      "width": 1280,
+      "height": 720,
+      "author": "iMahesh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palolem_Beach,_South_Goa.jpg"
+    }
+  },
+  "shimla": {
+    "stops": {
+      "The Ridge": {
+        "src": "/images/places/shimla/the-ridge.jpg",
+        "alt": "The Ridge, Shimla",
+        "width": 640,
+        "height": 570,
+        "author": "Virusism",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Ridge_Shimla_5.jpg"
+      },
+      "Christ Church": {
+        "src": "/images/places/shimla/christ-church.jpg",
+        "alt": "Christ Church, Shimla",
+        "width": 640,
+        "height": 480,
+        "author": "ShashankSharma2511",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christ_Church,_Shimla.jpg"
+      },
+      "Jakhu Temple": {
+        "src": "/images/places/shimla/jakhu-temple.jpg",
+        "alt": "Jakhu Temple",
+        "width": 640,
+        "height": 480,
+        "author": "Rohan1331",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jakhoo_temple.jpg"
+      },
+      "Kufri": {
+        "src": "/images/places/shimla/kufri.jpg",
+        "alt": "Kufri, India",
+        "width": 640,
+        "height": 480,
+        "author": "Jeyasree S.B",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kufri_hills.jpg"
+      },
+      "Mashobra": {
+        "src": "/images/places/shimla/mashobra.jpg",
+        "alt": "Mashobra",
+        "width": 640,
+        "height": 427,
+        "author": "Supreet",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mashobra_2.jpg"
+      },
+      "Narkanda": {
+        "src": "/images/places/shimla/narkanda.jpg",
+        "alt": "Narkanda",
+        "width": 640,
+        "height": 480,
+        "author": "Manjeet44877",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:NARKANDA.jpg"
+      },
+      "Kalka": {
+        "src": "/images/places/shimla/kalka.jpg",
+        "alt": "Kalka–Shimla Railway",
+        "width": 640,
+        "height": 439,
+        "author": "No machine-readable author provided. AHEMSLTD~commonswiki assumed (based on copyright claims).",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:KSR_Steam_special_at_Taradevi_05-02-13_56.jpeg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/shimla/hero.jpg",
+      "alt": "Christ Church, Shimla",
+      "width": 1280,
+      "height": 960,
+      "author": "ShashankSharma2511",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christ_Church,_Shimla.jpg"
+    }
+  },
+  "manali": {
+    "stops": {
+      "Mall Road": {
+        "src": "/images/places/manali/mall-road.jpg",
+        "alt": "Mall Road, Manali",
+        "width": 640,
+        "height": 427,
+        "author": "Nitinkanish",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manali-mall-road.webp"
+      },
+      "Solang Valley": {
+        "src": "/images/places/manali/solang-valley.jpg",
+        "alt": "Solang Valley",
+        "width": 640,
+        "height": 480,
+        "author": "Harvinder Chandigarh",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Solang_Valley_,Manali,_Himachal_Pardes,_India.JPG"
+      },
+      "Sissu": {
+        "src": "/images/places/manali/sissu.jpg",
+        "alt": "Sissu",
+        "width": 640,
+        "height": 480,
+        "author": "John Hill",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sissu._Public_Health_Clinic.jpg"
+      },
+      "Kasol": {
+        "src": "/images/places/manali/kasol.jpg",
+        "alt": "Kasol",
+        "width": 640,
+        "height": 480,
+        "author": "BenSalo",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kasol_mountain_view.jpg"
+      },
+      "Kullu": {
+        "src": "/images/places/manali/kullu.jpg",
+        "alt": "Kullu–Manali Airport",
+        "width": 640,
+        "height": 360,
+        "author": "Pinakpani",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kullu_Manali_Airport_in_Bhunter_04.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/manali/hero.jpg",
+      "alt": "Solang Valley",
+      "width": 1280,
+      "height": 960,
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Solang_Valley_,Manali,_Himachal_Pardes,_India.JPG"
+    }
+  },
+  "leh-ladakh": {
+    "stops": {
+      "Leh market": {
+        "src": "/images/places/leh-ladakh/leh-market.jpg",
+        "alt": "Leh",
+        "width": 640,
+        "height": 480,
+        "author": "Anirvan Shukla",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leh_City_seen_from_Shanti_Stupa.JPG"
+      },
+      "Leh Palace": {
+        "src": "/images/places/leh-ladakh/leh-palace.jpg",
+        "alt": "Leh Palace",
+        "width": 640,
+        "height": 427,
+        "author": "KennyOMG",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leh_Palace_2011.jpg"
+      },
+      "Shanti Stupa": {
+        "src": "/images/places/leh-ladakh/shanti-stupa.jpg",
+        "alt": "Shanti Stupa, Ladakh",
+        "width": 640,
+        "height": 960,
+        "author": "Vyacheslav Argenberg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leh,_Shanti_Stupa,_Ladakh,_India.jpg"
+      },
+      "Hemis Monastery": {
+        "src": "/images/places/leh-ladakh/hemis-monastery.jpg",
+        "alt": "Hemis Monastery",
+        "width": 640,
+        "height": 427,
+        "author": "Bernard Gagnon Canon EOS REBEL T4i",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hemis_Monastery_02.jpg"
+      },
+      "Diskit Monastery": {
+        "src": "/images/places/leh-ladakh/diskit-monastery.jpg",
+        "alt": "Diskit Monastery",
+        "width": 640,
+        "height": 223,
+        "author": "KennyOMG",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diskit_Gompa_2.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/leh-ladakh/hero.jpg",
+      "alt": "Thikse Monastery",
+      "width": 1280,
+      "height": 854,
+      "author": "Aksveer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thikse_Monastery_.jpg"
+    }
+  },
+  "spiti-valley": {
+    "stops": {
+      "Kaza": {
+        "src": "/images/places/spiti-valley/kaza.jpg",
+        "alt": "Kaza, Himachal Pradesh",
+        "width": 640,
+        "height": 480,
+        "author": "Rodmantyler",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaza_-_Losar_Entry_point.jpg"
+      },
+      "Key Monastery": {
+        "src": "/images/places/spiti-valley/key-monastery.jpg",
+        "alt": "Key Monastery",
+        "width": 640,
+        "height": 426,
+        "author": "Pranav perspective",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:1000_Year_loop.jpg"
+      },
+      "Kibber": {
+        "src": "/images/places/spiti-valley/kibber.jpg",
+        "alt": "Kibber Wildlife Sanctuary",
+        "width": 640,
+        "height": 360,
+        "author": "Ismail Shariff",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snow_Leopards_-_Ghost_of_the_Mountains_for_Ministry_of_Tourism_(MOT)_India_9.png"
+      },
+      "Langza": {
+        "src": "/images/places/spiti-valley/langza.jpg",
+        "alt": "Langza",
+        "width": 640,
+        "height": 427,
+        "author": "Madhumita Das",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Langza_Village,_Himachal_Pradesh.jpg"
+      },
+      "Hikkim": {
+        "src": "/images/places/spiti-valley/hikkim.jpg",
+        "alt": "Hikkim",
+        "width": 640,
+        "height": 417,
+        "author": "Sumita Roy Dutta",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hikkim_Village_and_water_reservoir_used_for_irrigation_spiti_India.jpg"
+      },
+      "Kunzum Pass": {
+        "src": "/images/places/spiti-valley/kunzum-pass.jpg",
+        "alt": "Kunzum Pass",
+        "width": 640,
+        "height": 379,
+        "author": "John Hill",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kunzum_Pass_between_Lahaul_%26_Spiti_28-6-04.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/spiti-valley/hero.jpg",
+      "alt": "Key Monastery",
+      "width": 1280,
+      "height": 852,
+      "author": "Pranav perspective",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1000_Year_loop.jpg"
+    }
+  },
+  "gulmarg": {
+    "stops": {
+      "Dal Lake": {
+        "src": "/images/places/gulmarg/dal-lake.jpg",
+        "alt": "Dal Lake",
+        "width": 640,
+        "height": 427,
+        "author": "Suhail Skindar Sofi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dal_Lake_Hazratbal_Srinagar.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/gulmarg/hero.jpg",
+      "alt": "Gulmarg",
+      "width": 1280,
+      "height": 853,
+      "author": "Anurag Kumar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ancient_Temple,_Gulmarg.jpg"
+    }
+  },
+  "auli": {
+    "stops": {
+      "Joshimath": {
+        "src": "/images/places/auli/joshimath.jpg",
+        "alt": "Joshimath",
+        "width": 640,
+        "height": 853,
+        "author": "Rohanshah657",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Joshimath_town_on_mountain_slope.jpg"
+      },
+      "Auli": {
+        "src": "/images/places/auli/auli.jpg",
+        "alt": "Auli, India",
+        "width": 640,
+        "height": 665,
+        "author": "Vaibhav 369",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auli_Himalayas.jpg"
+      },
+      "Gorson Bugyal": {
+        "src": "/images/places/auli/gorson-bugyal.jpg",
+        "alt": "Gorson Bugyal",
+        "width": 640,
+        "height": 427,
+        "author": "Vaibhav78545",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gorson_Bugyal.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/auli/hero.jpg",
+      "alt": "Nanda Devi",
+      "width": 1280,
+      "height": 849,
+      "author": "Sumod K Mohan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mt._Nanda_Devi.jpg"
+    }
+  },
+  "munnar": {
+    "stops": {
+      "Munnar town": {
+        "src": "/images/places/munnar/munnar-town.jpg",
+        "alt": "Munnar",
+        "width": 640,
+        "height": 427,
+        "author": "Kondephy",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Munnar_Overview.jpg"
+      },
+      "Mattupetty Dam": {
+        "src": "/images/places/munnar/mattupetty-dam.jpg",
+        "alt": "Mattupetty Dam",
+        "width": 640,
+        "height": 480,
+        "author": "DdraconiandevilL",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mattupetty_Dam.jpg"
+      },
+      "Kundala Lake": {
+        "src": "/images/places/munnar/kundala-lake.jpg",
+        "alt": "Kundala Dam",
+        "width": 640,
+        "height": 425,
+        "author": "Liji Jinaraj from San Francisco, USA",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Munnar_Kundala_Dam_(4224019133).jpg"
+      },
+      "Kolukkumalai": {
+        "src": "/images/places/munnar/kolukkumalai.jpg",
+        "alt": "Kolukkumalai",
+        "width": 640,
+        "height": 427,
+        "author": "Jan J George",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Beautiful_landscape_view_from_the_Kolukkumalai_Peak,_Munnar.jpg"
+      },
+      "Adimali": {
+        "src": "/images/places/munnar/adimali.jpg",
+        "alt": "Adimali",
+        "width": 640,
+        "height": 480,
+        "author": "Wikistranger",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adimali_Town.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/munnar/hero.jpg",
+      "alt": "Munnar",
+      "width": 1280,
+      "height": 509,
+      "author": "Ingo Mehling",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Munnar_-_Lockhart_tea_plantation.jpg"
+    }
+  },
+  "ooty": {
+    "stops": {
+      "Ooty Lake": {
+        "src": "/images/places/ooty/ooty-lake.jpg",
+        "alt": "Ooty",
+        "width": 640,
+        "height": 348,
+        "author": "Vinayaraj",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ooty_lake.jpg"
+      },
+      "Botanical Garden": {
+        "src": "/images/places/ooty/botanical-garden.jpg",
+        "alt": "Government Botanical Garden",
+        "width": 640,
+        "height": 480,
+        "author": "Adam Jones Adam63",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Botanical_Gardens_-_Ootacamund_(Ooty)_-_India_03.JPG"
+      },
+      "Theppakadu": {
+        "src": "/images/places/ooty/theppakadu.jpg",
+        "alt": "Theppakadu",
+        "width": 640,
+        "height": 400,
+        "author": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would ",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delonix_regia_-_Gulmohar_Theppakadu_Junction_Mudumalai_Apr24_A7C_10871.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/ooty/hero.jpg",
+      "alt": "Nilgiri Mountain Railway",
+      "width": 1280,
+      "height": 906,
+      "author": "A.M.Hurrell (photo) No machine-readable author provided. AHEMSLTD~commonswiki assumed (based on copyright claims).",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NMR_train_at_Ketti_05-02-26_75.jpeg"
+    }
+  },
+  "alleppey": {
+    "stops": {
+      "Alappuzha Beach": {
+        "src": "/images/places/alleppey/alappuzha-beach.jpg",
+        "alt": "Alappuzha Beach",
+        "width": 640,
+        "height": 400,
+        "author": "Mohanrangaphotography",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alleppey_beach.jpg"
+      },
+      "Marari Beach": {
+        "src": "/images/places/alleppey/marari-beach.jpg",
+        "alt": "Marari Beach",
+        "width": 640,
+        "height": 427,
+        "author": "Mahendra M",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marari_Beach_Sunset_01.JPG"
+      },
+      "Champakulam": {
+        "src": "/images/places/alleppey/champakulam.jpg",
+        "alt": "Champakulam",
+        "width": 640,
+        "height": 480,
+        "author": "Bennyvk",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Champakulam_Bridge_River_Pampa.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/alleppey/hero.jpg",
+      "alt": "Alleppey",
+      "width": 1280,
+      "height": 960,
+      "author": "Paul Arps from The Netherlands",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Houseboat_on_Alleppey_backwaters_(Kerala,_India_2023)_(52704577484).jpg"
+    }
+  },
+  "gokarna": {
+    "stops": {
+      "Mahabaleshwar Temple": {
+        "src": "/images/places/gokarna/mahabaleshwar-temple.jpg",
+        "alt": "Mahabaleshwar Temple, Gokarna",
+        "width": 640,
+        "height": 853,
+        "author": "Nvvchar",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_entry_to_the_Mahabaleshwar_Temple_at_Gokaran.jpg"
+      },
+      "Gokarna Beach": {
+        "src": "/images/places/gokarna/gokarna-beach.jpg",
+        "alt": "Gokarna, Karnataka",
+        "width": 640,
+        "height": 464,
+        "author": "Aleksriis",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delight_india.jpg"
+      },
+      "Mirjan Fort": {
+        "src": "/images/places/gokarna/mirjan-fort.jpg",
+        "alt": "Mirjan Fort",
+        "width": 640,
+        "height": 427,
+        "author": "Gandharva S",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirjan_Fort_02.JPG"
+      },
+      "Yana": {
+        "src": "/images/places/gokarna/yana.jpg",
+        "alt": "Yana, India",
+        "width": 640,
+        "height": 853,
+        "author": "Amithkk",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yana_Rocks.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/gokarna/hero.jpg",
+      "alt": "Om Beach",
+      "width": 1280,
+      "height": 720,
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20260103_101009613_People_and_Beach_Om_Beach_Gokarna,_Karnataka_19.jpg"
+    }
+  },
+  "pondicherry": {
+    "stops": {
+      "Promenade Beach": {
+        "src": "/images/places/pondicherry/promenade-beach.jpg",
+        "alt": "Promenade Beach",
+        "width": 640,
+        "height": 427,
+        "author": "Karthik Easvur",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pondicherry-Rock_beach_aerial_view.jpg"
+      },
+      "Basilica of the Sacred Heart": {
+        "src": "/images/places/pondicherry/basilica-of-the-sacred-heart.jpg",
+        "alt": "Basilica of the Sacred Heart of Jesus, Pondicherry",
+        "width": 640,
+        "height": 853,
+        "author": "BishkekRocks",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puducherry_Sacred_Heart_Cathedral_2.JPG"
+      },
+      "Matrimandir": {
+        "src": "/images/places/pondicherry/matrimandir.jpg",
+        "alt": "Matrimandir",
+        "width": 640,
+        "height": 480,
+        "author": "Matthew T Rader",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Matrimandir_in_Auroville,_Tamil_Nadu,_India.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/pondicherry/hero.jpg",
+      "alt": "Promenade Beach",
+      "width": 1280,
+      "height": 853,
+      "author": "Karthik Easvur",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pondicherry-Rock_beach_aerial_view.jpg"
+    }
+  },
+  "hampi": {
+    "stops": {
+      "Virupaksha Temple": {
+        "src": "/images/places/hampi/virupaksha-temple.jpg",
+        "alt": "Virupaksha Temple, Hampi",
+        "width": 640,
+        "height": 360,
+        "author": "iMahesh",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Complex_of_Virupaksha_Temple,_Hampi_(04).jpg"
+      },
+      "Matanga Hill": {
+        "src": "/images/places/hampi/matanga-hill.jpg",
+        "alt": "Matanga Hill",
+        "width": 640,
+        "height": 360,
+        "author": "Mathew Chandy",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enroute_to_Matanga_hills,_Hampi.jpg"
+      },
+      "Anegundi": {
+        "src": "/images/places/hampi/anegundi.jpg",
+        "alt": "Anegundi",
+        "width": 640,
+        "height": 427,
+        "author": "iMahesh",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gagan_Mahal_palace,_Anegundi.jpg"
+      },
+      "Tungabhadra Dam": {
+        "src": "/images/places/hampi/tungabhadra-dam.jpg",
+        "alt": "Tungabhadra Dam",
+        "width": 640,
+        "height": 335,
+        "author": "Mohammed aquib",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tungabhadra_dam_all_gates_open.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/hampi/hero.jpg",
+      "alt": "Hampi",
+      "width": 1280,
+      "height": 640,
+      "author": "iMahesh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wide_angle_of_Galigopuram_of_Virupaksha_Temple,_Hampi_(04)_(cropped).jpg"
+    }
+  },
+  "jaipur": {
+    "stops": {
+      "Hawa Mahal": {
+        "src": "/images/places/jaipur/hawa-mahal.jpg",
+        "alt": "Hawa Mahal",
+        "width": 640,
+        "height": 480,
+        "author": "Chainwit.",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg"
+      },
+      "Albert Hall": {
+        "src": "/images/places/jaipur/albert-hall.jpg",
+        "alt": "Albert Hall Museum",
+        "width": 640,
+        "height": 452,
+        "author": "Ajit Kumar Majhi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Albert_Hall_(_Jaipur_).jpg"
+      },
+      "Amber Fort": {
+        "src": "/images/places/jaipur/amber-fort.jpg",
+        "alt": "Amber Fort",
+        "width": 640,
+        "height": 581,
+        "author": "Jakub Hałun",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:20191219_Fort_Amber,_Amer,_Jaipur_0955_9481.jpg"
+      },
+      "Jaigarh Fort": {
+        "src": "/images/places/jaipur/jaigarh-fort.jpg",
+        "alt": "Jaigarh Fort",
+        "width": 640,
+        "height": 481,
+        "author": "Acred99",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rajasthan-Jaipur-Jaigarh-Fort-compound-Apr-2004-00.JPG"
+      },
+      "Jal Mahal": {
+        "src": "/images/places/jaipur/jal-mahal.jpg",
+        "alt": "Jal Mahal",
+        "width": 640,
+        "height": 427,
+        "author": "A.Savin",
+        "license": "FAL",
+        "licenseUrl": "http://artlibre.org/licence/lal/en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg"
+      },
+      "City Palace": {
+        "src": "/images/places/jaipur/city-palace.jpg",
+        "alt": "City Palace, Jaipur",
+        "width": 640,
+        "height": 571,
+        "author": "Jakub Hałun",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandra_Mahal,_City_Palace,_Jaipur,_20191218_0951_9043.jpg"
+      },
+      "Jantar Mantar": {
+        "src": "/images/places/jaipur/jantar-mantar.jpg",
+        "alt": "Jantar Mantar, Jaipur",
+        "width": 640,
+        "height": 403,
+        "author": "Knowledge Seeker",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jantar_Mantar_at_Jaipur.jpg"
+      },
+      "Nahargarh Fort": {
+        "src": "/images/places/jaipur/nahargarh-fort.jpg",
+        "alt": "Nahargarh Fort",
+        "width": 640,
+        "height": 384,
+        "author": "Sanyam Bahga",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nahargarh_13.jpg"
+      },
+      "Galta Ji": {
+        "src": "/images/places/jaipur/galta-ji.jpg",
+        "alt": "Galtaji",
+        "width": 640,
+        "height": 427,
+        "author": "Sharvarism",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zanana_Kund_Aur_Galta_Ji_Ka_Mandir_-_edited.jpg"
+      },
+      "Birla Mandir": {
+        "src": "/images/places/jaipur/birla-mandir.jpg",
+        "alt": "Birla Mandir, Jaipur",
+        "width": 640,
+        "height": 480,
+        "author": "Chainwit.",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birla_Mandir_Jaipur_(2022-07).jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/jaipur/hero.jpg",
+      "alt": "Hawa Mahal",
+      "width": 1280,
+      "height": 960,
+      "author": "Chainwit.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg"
+    }
+  },
+  "udaipur": {
+    "stops": {
+      "Jagdish Temple": {
+        "src": "/images/places/udaipur/jagdish-temple.jpg",
+        "alt": "Jagdish Temple, Udaipur",
+        "width": 640,
+        "height": 960,
+        "author": "Ingo Mehling",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jagdish_Temple_Udaipur.jpg"
+      },
+      "Bagore ki Haveli": {
+        "src": "/images/places/udaipur/bagore-ki-haveli.jpg",
+        "alt": "Bagore Ki Haveli",
+        "width": 640,
+        "height": 956,
+        "author": "ashish v from bangalore, india",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bagore_ki_Haveli,_Rajasthan.jpg"
+      },
+      "City Palace": {
+        "src": "/images/places/udaipur/city-palace.jpg",
+        "alt": "City Palace, Udaipur",
+        "width": 640,
+        "height": 464,
+        "author": "Henrik Bennetsen",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Udaipur_City_Palace.jpg"
+      },
+      "Jag Mandir": {
+        "src": "/images/places/udaipur/jag-mandir.jpg",
+        "alt": "Jag Mandir Palace",
+        "width": 640,
+        "height": 480,
+        "author": "No machine-readable author provided. Philbrest assumed (based on copyright claims).",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:JagMandir.jpg"
+      },
+      "Saheliyon ki Bari": {
+        "src": "/images/places/udaipur/saheliyon-ki-bari.jpg",
+        "alt": "Saheliyon-ki-Bari",
+        "width": 640,
+        "height": 960,
+        "author": "Jstplace",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saheliyon-ki-Bari_Fountain.JPG"
+      },
+      "Fateh Sagar Lake": {
+        "src": "/images/places/udaipur/fateh-sagar-lake.jpg",
+        "alt": "Fateh Sagar Lake",
+        "width": 640,
+        "height": 426,
+        "author": "Unknown",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fatehsagar_nehrugarden.jpg"
+      },
+      "Kumbhalgarh Fort": {
+        "src": "/images/places/udaipur/kumbhalgarh-fort.jpg",
+        "alt": "Kumbhalgarh",
+        "width": 640,
+        "height": 426,
+        "author": "Rajesh Kapoor",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kumbhalgarh_055.jpg"
+      },
+      "Ranakpur Jain Temple": {
+        "src": "/images/places/udaipur/ranakpur-jain-temple.jpg",
+        "alt": "Ranakpur Jain temple",
+        "width": 640,
+        "height": 400,
+        "author": "Nagarjun Kandukuru",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chaumukha_Jain_temple_at_Ranakpur_in_Aravalli_range_near_Udaipur_Rajasthan_India.jpg"
+      },
+      "Chittorgarh Fort": {
+        "src": "/images/places/udaipur/chittorgarh-fort.jpg",
+        "alt": "Chittorgarh",
+        "width": 640,
+        "height": 426,
+        "author": "Ssjoshi111",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chittorgarh_fort.JPG"
+      }
+    },
+    "hero": {
+      "src": "/images/places/udaipur/hero.jpg",
+      "alt": "Lake Pichola",
+      "width": 1280,
+      "height": 848,
+      "author": "Uri Sittan Tripo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Udaipur_Lake_India.JPG"
+    }
+  },
+  "varanasi": {
+    "stops": {
+      "Dashashwamedh Ghat": {
+        "src": "/images/places/varanasi/dashashwamedh-ghat.jpg",
+        "alt": "Dashashwamedh Ghat",
+        "width": 640,
+        "height": 478,
+        "author": "Saaremees",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dasaswamedh_ghat-varanasi_india-andres_larin.jpg"
+      },
+      "Assi Ghat": {
+        "src": "/images/places/varanasi/assi-ghat.jpg",
+        "alt": "Assi Ghat",
+        "width": 640,
+        "height": 360,
+        "author": "Titodutta",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Assi_Ghat_Varanasi_morning_Aarti.jpg"
+      },
+      "Manikarnika Ghat": {
+        "src": "/images/places/varanasi/manikarnika-ghat.jpg",
+        "alt": "Manikarnika Ghat",
+        "width": 640,
+        "height": 425,
+        "author": "Aleksandr Zykov from Russia",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manikarnika_Ghat,_Varanasi,_Uttar_Pradesh,_India_(2011)_5.jpg"
+      },
+      "Kashi Vishwanath": {
+        "src": "/images/places/varanasi/kashi-vishwanath.jpg",
+        "alt": "Kashi Vishwanath Temple",
+        "width": 621,
+        "height": 452,
+        "author": "Architkumar1234",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kashi_Vishwanath.jpg"
+      },
+      "Sankat Mochan": {
+        "src": "/images/places/varanasi/sankat-mochan.jpg",
+        "alt": "Sankat Mochan Hanuman Temple",
+        "width": 640,
+        "height": 853,
+        "author": "Vinayaraj",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sankat_Mochan_temple_entrance,_Varanasi_-_IRCTC_2017_(1).jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/varanasi/hero.jpg",
+      "alt": "Ghats in Varanasi",
+      "width": 1280,
+      "height": 960,
+      "author": "Ken Wieland",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ahilya_Ghat_by_the_Ganges,_Varanasi.jpg"
+    }
+  },
+  "agra": {
+    "stops": {
+      "Agra Fort": {
+        "src": "/images/places/agra/agra-fort.jpg",
+        "alt": "Agra Fort",
+        "width": 640,
+        "height": 427,
+        "author": "A.Savin",
+        "license": "FAL",
+        "licenseUrl": "http://artlibre.org/licence/lal/en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agra_03-2016_16_Agra_Fort.jpg"
+      },
+      "Mehtab Bagh": {
+        "src": "/images/places/agra/mehtab-bagh.jpg",
+        "alt": "Mehtab Bagh",
+        "width": 640,
+        "height": 360,
+        "author": "g.kaustav",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mehtab_Bagh_facing_Taj_Mahal.JPG"
+      },
+      "Taj Mahal": {
+        "src": "/images/places/agra/taj-mahal.jpg",
+        "alt": "Taj Mahal",
+        "width": 640,
+        "height": 421,
+        "author": "Yann ; edited by Jim Carter",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg"
+      },
+      "Itmad-ud-Daulah": {
+        "src": "/images/places/agra/itmad-ud-daulah.jpg",
+        "alt": "Itmad Ud Daulah",
+        "width": 640,
+        "height": 427,
+        "author": "Muhammad Mahdi Karim",
+        "license": "GFDL 1.2",
+        "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:I%27tim%C4%81d-ud-Daulah,_Agra.jpg"
+      },
+      "Fatehpur Sikri": {
+        "src": "/images/places/agra/fatehpur-sikri.jpg",
+        "alt": "Fatehpur Sikri",
+        "width": 640,
+        "height": 552,
+        "author": "Marcin Białek",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg"
+      },
+      "Govardhan": {
+        "src": "/images/places/agra/govardhan.jpg",
+        "alt": "Govardhan Hill",
+        "width": 640,
+        "height": 480,
+        "author": "Ekabhishek",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Govardhan_hill,_Govardhan.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/agra/hero.jpg",
+      "alt": "Taj Mahal",
+      "width": 1280,
+      "height": 842,
+      "author": "Yann ; edited by Jim Carter",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg"
+    }
+  },
+  "rann-of-kutch": {
+    "stops": {
+      "Dhordo": {
+        "src": "/images/places/rann-of-kutch/dhordo.jpg",
+        "alt": "Dhordo",
+        "width": 640,
+        "height": 360,
+        "author": "NandaMunish",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset_at_Rann_of_Kutch,_Dhordo,_Gujarat.jpg"
+      },
+      "Lakhpat Fort": {
+        "src": "/images/places/rann-of-kutch/lakhpat-fort.jpg",
+        "alt": "Lakhpat",
+        "width": 640,
+        "height": 480,
+        "author": "User:Nizil Shah",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lakhpat_fort_gate_2014-01-27_13-02.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/rann-of-kutch/hero.jpg",
+      "alt": "Rann of Kutch",
+      "width": 1280,
+      "height": 720,
+      "author": "Prof Ranga Sai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_salt_desert_at_Rann_of_Kutch.jpg"
+    }
+  },
+  "ranthambore": {
+    "stops": {
+      "Ranthambore National Park": {
+        "src": "/images/places/ranthambore/ranthambore-national-park.jpg",
+        "alt": "Ranthambore National Park",
+        "width": 640,
+        "height": 480,
+        "author": "THerrington",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ranthambore_National_Park.JPG"
+      },
+      "Ranthambore Fort": {
+        "src": "/images/places/ranthambore/ranthambore-fort.jpg",
+        "alt": "Ranthambore Fort",
+        "width": 640,
+        "height": 944,
+        "author": "Manojmeena",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ranthambhore_Fort.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/ranthambore/hero.jpg",
+      "alt": "Ranthambore National Park",
+      "width": 1280,
+      "height": 960,
+      "author": "THerrington",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ranthambore_National_Park.JPG"
+    }
+  },
+  "gangtok": {
+    "stops": {
+      "Tsomgo Lake": {
+        "src": "/images/places/gangtok/tsomgo-lake.jpg",
+        "alt": "Lake Tsomgo",
+        "width": 640,
+        "height": 427,
+        "author": "Indrajit Das",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tsongmo_Lake_or_Changu_Lake_-_East_Sikkim.jpg"
+      },
+      "Rumtek Monastery": {
+        "src": "/images/places/gangtok/rumtek-monastery.jpg",
+        "alt": "Rumtek Monastery",
+        "width": 640,
+        "height": 427,
+        "author": "Anjan Kumar Kundu",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rumtek_Monastery_alias_Dharma_Chakra_Centre_near_Gangtok,_East_Sikkim_09.jpg"
+      },
+      "Do Drul Chorten": {
+        "src": "/images/places/gangtok/do-drul-chorten.jpg",
+        "alt": "Do-drul Chorten",
+        "width": 640,
+        "height": 941,
+        "author": "Subhrajyoti07",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Do-drul_Chorten_Stupa,_Gangtok,_Sikkim.jpg"
+      },
+      "Enchey Monastery": {
+        "src": "/images/places/gangtok/enchey-monastery.jpg",
+        "alt": "Enchey Monastery",
+        "width": 640,
+        "height": 592,
+        "author": "Amitabha Gupta",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enchey_Monastery_in_Gangtok_district,_East_Sikkim.jpg"
+      },
+      "Banjhakri Falls": {
+        "src": "/images/places/gangtok/banjhakri-falls.jpg",
+        "alt": "Banjhakri Falls and Energy Park",
+        "width": 640,
+        "height": 440,
+        "author": "Indrajit Das",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ban_Jhakri_Falls_-_Gangtok.jpg"
+      },
+      "Ravangla": {
+        "src": "/images/places/gangtok/ravangla.jpg",
+        "alt": "Ravangla",
+        "width": 640,
+        "height": 480,
+        "author": "Devsutapabublu",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ravangla_Town.jpg"
+      },
+      "Namchi": {
+        "src": "/images/places/gangtok/namchi.jpg",
+        "alt": "Namchi",
+        "width": 640,
+        "height": 377,
+        "author": "Subhrajyoti07",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_large_statue_of_Guru_Padmasambhava_(Guru_Rinpoche)m_Namchi.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/gangtok/hero.jpg",
+      "alt": "Lake Tsomgo",
+      "width": 1280,
+      "height": 853,
+      "author": "Indrajit Das",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tsongmo_Lake_or_Changu_Lake_-_East_Sikkim.jpg"
+    }
+  },
+  "andaman": {
+    "stops": {
+      "Cellular Jail": {
+        "src": "/images/places/andaman/cellular-jail.jpg",
+        "alt": "Cellular Jail",
+        "width": 640,
+        "height": 428,
+        "author": "Jomesh",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_View_of_Cellular_Jail,_Port_Blair.JPG"
+      }
+    },
+    "hero": {
+      "src": "/images/places/andaman/hero.jpg",
+      "alt": "Radhanagar Beach",
+      "width": 1280,
+      "height": 960,
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Radha_Nagar_beach,_Havelock_Island,_Andamn,_India-_Sun_set_view.jpg"
+    }
+  },
+  "kaziranga": {
+    "stops": {},
+    "hero": {
+      "src": "/images/places/kaziranga/hero.jpg",
+      "alt": "Kaziranga National Park",
+      "width": 1280,
+      "height": 853,
+      "author": "Diganta Talukdar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beauty_of_Kaziranga_National_Park.jpg"
+    }
+  },
+  "jim-corbett": {
+    "stops": {
+      "Ramnagar": {
+        "src": "/images/places/jim-corbett/ramnagar.jpg",
+        "alt": "Ramnagar, Uttarakhand",
+        "width": 640,
+        "height": 480,
+        "author": "Anamdas",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kosi_River,_Jim_Corbett_National_Park,_Ramnagar,_Uttarakhand.jpeg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/jim-corbett/hero.jpg",
+      "alt": "Jim Corbett National Park",
+      "width": 1024,
+      "height": 683,
+      "author": "Soumyajit Nandy",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bengal-Tiger_Corbett_Uttarakhand_Dec-2013.jpg"
+    }
+  },
+  "rishikesh": {
+    "stops": {
+      "Ram Jhula": {
+        "src": "/images/places/rishikesh/ram-jhula.jpg",
+        "alt": "Ram Jhula",
+        "width": 640,
+        "height": 480,
+        "author": "Asis K. Chatterjee",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramjhula_-_bridge_over_the_Ganga.jpg"
+      },
+      "Triveni Ghat": {
+        "src": "/images/places/rishikesh/triveni-ghat.jpg",
+        "alt": "Triveni Ghat",
+        "width": 640,
+        "height": 480,
+        "author": "Sujon Kumar Roy",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Triveni_Ghat_Krishna_Arjun_Rath.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/rishikesh/hero.jpg",
+      "alt": "Lakshman Jhula",
+      "width": 1280,
+      "height": 720,
+      "author": "KaustubhNayyar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg"
+    }
+  },
+  "coorg": {
+    "stops": {
+      "Madikeri Fort": {
+        "src": "/images/places/coorg/madikeri-fort.jpg",
+        "alt": "Madikeri Fort",
+        "width": 640,
+        "height": 480,
+        "author": "VASANTH S.N.",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madikeri_Palace_now_used_as_district_administration_seat.jpg"
+      },
+      "Bhagamandala": {
+        "src": "/images/places/coorg/bhagamandala.jpg",
+        "alt": "Bhagamandala",
+        "width": 640,
+        "height": 360,
+        "author": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would ",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhagamandala_Birdseye_View_Coorg_Feb24_A7C_09524.jpg"
+      },
+      "Talakaveri": {
+        "src": "/images/places/coorg/talakaveri.jpg",
+        "alt": "Talakaveri",
+        "width": 640,
+        "height": 427,
+        "author": "Pranchiyettan",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thalakkaveri_Temple,_Karnataka.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/coorg/hero.jpg",
+      "alt": "Abbey Falls",
+      "width": 1280,
+      "height": 720,
+      "author": "Santhoshkumar Sugumar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abbey_Falls_New.jpg"
+    }
+  },
+  "meghalaya": {
+    "stops": {},
+    "hero": {
+      "src": "/images/places/meghalaya/hero.jpg",
+      "alt": "Living root bridge",
+      "width": 1280,
+      "height": 853,
+      "author": "Arshiya Urveeja Bose",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Living_root_bridges,_Nongriat_village,_Meghalaya2.jpg"
+    }
+  },
+  "nainital": {
+    "stops": {
+      "Naini Lake": {
+        "src": "/images/places/nainital/naini-lake.jpg",
+        "alt": "Nainital",
+        "width": 640,
+        "height": 480,
+        "author": "Skalvanov",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nainital_metro.jpg"
+      },
+      "Bhimtal": {
+        "src": "/images/places/nainital/bhimtal.jpg",
+        "alt": "Bhimtal",
+        "width": 640,
+        "height": 480,
+        "author": "Krishan09",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhimtal_Lake.jpg"
+      },
+      "Naukuchiatal": {
+        "src": "/images/places/nainital/naukuchiatal.jpg",
+        "alt": "Naukuchiatal",
+        "width": 640,
+        "height": 223,
+        "author": "Alphahansraj",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naukuchiatal_Lake.jpg"
+      },
+      "Mukteshwar": {
+        "src": "/images/places/nainital/mukteshwar.jpg",
+        "alt": "Mukteshwar",
+        "width": 640,
+        "height": 480,
+        "author": "ParthaPratimNath",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chauli_Ki_Jali,_Mukteshwar.jpg"
+      },
+      "Kainchi Dham": {
+        "src": "/images/places/nainital/kainchi-dham.jpg",
+        "alt": "Kainchi Dham",
+        "width": 640,
+        "height": 480,
+        "author": "25 Cents FC",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Early_morning_Glimpse_of_Kainchi_Dham_Nainital_2023.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/nainital/hero.jpg",
+      "alt": "Nainital Lake",
+      "width": 1280,
+      "height": 960,
+      "author": "Incorelabs",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Boat_and_The_Lake.jpg"
+    }
+  },
+  "mussoorie": {
+    "stops": {
+      "Kempty Falls": {
+        "src": "/images/places/mussoorie/kempty-falls.jpg",
+        "alt": "Kempty Falls",
+        "width": 640,
+        "height": 480,
+        "author": "Siva301in",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kempty_Waterfalls.jpg"
+      },
+      "Dhanaulti": {
+        "src": "/images/places/mussoorie/dhanaulti.jpg",
+        "alt": "Dhanaulti",
+        "width": 640,
+        "height": 480,
+        "author": "Alok Prasad",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dhanaulti_2.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/mussoorie/hero.jpg",
+      "alt": "Mussoorie",
+      "width": 1280,
+      "height": 888,
+      "author": "Paul Hamilton",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mussoorie_Snow_Over_Dehradun_(14831297545).jpg"
+    }
+  },
+  "kodaikanal": {
+    "stops": {
+      "Silver Cascade": {
+        "src": "/images/places/kodaikanal/silver-cascade.jpg",
+        "alt": "Silver Cascade Falls (India)",
+        "width": 640,
+        "height": 963,
+        "author": "Challiyan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Silver_Cascade.jpg"
+      },
+      "Kodai Lake": {
+        "src": "/images/places/kodaikanal/kodai-lake.jpg",
+        "alt": "Kodaikanal",
+        "width": 640,
+        "height": 427,
+        "author": "KARTY JazZ",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boating_in_Kodaikanal_Lake_with_Mist.jpg"
+      },
+      "Poombarai": {
+        "src": "/images/places/kodaikanal/poombarai.jpg",
+        "alt": "Poombarai",
+        "width": 640,
+        "height": 427,
+        "author": "Aditya36subu",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poombarai_village_(1).jpg"
+      },
+      "Palani hill temple": {
+        "src": "/images/places/kodaikanal/palani-hill-temple.jpg",
+        "alt": "Palani Hills",
+        "width": 640,
+        "height": 480,
+        "author": "DRUID1962",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PALANI_HILLS_southern_slopes.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/kodaikanal/hero.jpg",
+      "alt": "Kodaikanal",
+      "width": 1280,
+      "height": 853,
+      "author": "KARTY JazZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boating_in_Kodaikanal_Lake_with_Mist.jpg"
+    }
+  },
+  "tawang": {
+    "stops": {
+      "Sela Pass": {
+        "src": "/images/places/tawang/sela-pass.jpg",
+        "alt": "Sela Pass",
+        "width": 640,
+        "height": 424,
+        "author": "Dhrubazaanphotography",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tawang_Gate.jpg"
+      },
+      "Nuranang Falls": {
+        "src": "/images/places/tawang/nuranang-falls.jpg",
+        "alt": "Nuranang Falls",
+        "width": 640,
+        "height": 427,
+        "author": "Sdasamdabad",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nuranang_Waterfall.jpg"
+      },
+      "Tawang Monastery": {
+        "src": "/images/places/tawang/tawang-monastery.jpg",
+        "alt": "Tawang Monastery",
+        "width": 640,
+        "height": 415,
+        "author": "Rumelade",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:TawangMonastery.jpg"
+      },
+      "Bomdila": {
+        "src": "/images/places/tawang/bomdila.jpg",
+        "alt": "Bomdila",
+        "width": 640,
+        "height": 480,
+        "author": "TassoRija",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bomdila.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/tawang/hero.jpg",
+      "alt": "Tawang Monastery",
+      "width": 1024,
+      "height": 664,
+      "author": "Rumelade",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TawangMonastery.jpg"
+    }
+  },
+  "kasol": {
+    "stops": {
+      "Kasol": {
+        "src": "/images/places/kasol/kasol.jpg",
+        "alt": "Kasol",
+        "width": 640,
+        "height": 480,
+        "author": "BenSalo",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kasol_mountain_view.jpg"
+      },
+      "Tosh": {
+        "src": "/images/places/kasol/tosh.jpg",
+        "alt": "Tosh, Himachal Pradesh",
+        "width": 640,
+        "height": 480,
+        "author": "Jim Ankan Deka",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_village_of_Tosh_in_Himachal_Pradesh,_India_(photo_by_Jim_Ankan_Deka).jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/kasol/hero.jpg",
+      "alt": "Parvati Valley",
+      "width": 1280,
+      "height": 852,
+      "author": "Rahulsetiya94",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tosh_in_Monsoon,_July_2017.jpg"
+    }
+  },
+  "amritsar": {
+    "stops": {
+      "Golden Temple": {
+        "src": "/images/places/amritsar/golden-temple.jpg",
+        "alt": "Golden Temple",
+        "width": 640,
+        "height": 427,
+        "author": "Shagil Kannur",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Golden_Temple_of_Amrithsar_7.jpg"
+      },
+      "Jallianwala Bagh": {
+        "src": "/images/places/amritsar/jallianwala-bagh.jpg",
+        "alt": "Jallianwala Bagh",
+        "width": 640,
+        "height": 427,
+        "author": "Bernard Gagnon",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jallianwala_Bagh,_Amritsar_01.jpg"
+      },
+      "Partition Museum": {
+        "src": "/images/places/amritsar/partition-museum.jpg",
+        "alt": "Partition Museum",
+        "width": 640,
+        "height": 427,
+        "author": "Vengolis",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amritsar_9125.jpg"
+      },
+      "Attari–Wagah border": {
+        "src": "/images/places/amritsar/attari-wagah-border.jpg",
+        "alt": "Attari–Wagah border ceremony",
+        "width": 640,
+        "height": 429,
+        "author": "Ministry of External Affairs",
+        "license": "GODL-India",
+        "licenseUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_SAARC_Car_Rally_2007_being_welcomed_by_traditional_Drummers_at_the_Wagah_Border_on_March_28,_2007.jpg"
+      },
+      "Gobindgarh Fort": {
+        "src": "/images/places/amritsar/gobindgarh-fort.jpg",
+        "alt": "Gobindgarh Fort",
+        "width": 640,
+        "height": 480,
+        "author": "Harvinder Chandigarh",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gobindgarh_fort,_Amritsar,_Punjab,_India.jpg"
+      },
+      "Durgiana Temple": {
+        "src": "/images/places/amritsar/durgiana-temple.jpg",
+        "alt": "Durgiana Temple",
+        "width": 640,
+        "height": 427,
+        "author": "shankar s. from Dubai, united arab emirates",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Many_of_the_locals_we_had_spoken_to_were_delighted_that_the_Govt_has_sanctioned_funds_for_renovation_of_this_temple_(38049489065).jpg"
+      },
+      "Tarn Taran Sahib": {
+        "src": "/images/places/amritsar/tarn-taran-sahib.jpg",
+        "alt": "Tarn Taran Sahib",
+        "width": 640,
+        "height": 426,
+        "author": "Giridhar Appaji Nag Y from Bangalore, India",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Sarovar_besides_the_GurudwaraTarn_Taran_Sahib,_Punjab,_India.jpg"
+      },
+      "Harike wetland": {
+        "src": "/images/places/amritsar/harike-wetland.jpg",
+        "alt": "Harike Wetland",
+        "width": 640,
+        "height": 425,
+        "author": "Jaypee",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harike.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/amritsar/hero.jpg",
+      "alt": "Golden Temple",
+      "width": 1280,
+      "height": 853,
+      "author": "Shagil Kannur",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Golden_Temple_of_Amrithsar_7.jpg"
+    }
+  },
+  "jodhpur": {
+    "stops": {
+      "Mehrangarh Fort": {
+        "src": "/images/places/jodhpur/mehrangarh-fort.jpg",
+        "alt": "Mehrangarh",
+        "width": 640,
+        "height": 427,
+        "author": "Sanhitasinha",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mehrangarh_Fort_sanhita.jpg"
+      },
+      "Jaswant Thada": {
+        "src": "/images/places/jodhpur/jaswant-thada.jpg",
+        "alt": "Jaswant Thada",
+        "width": 640,
+        "height": 421,
+        "author": "Flying Pharmacist",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaswant_Thada_Dawn.jpg"
+      },
+      "Toorji ka Jhalra": {
+        "src": "/images/places/jodhpur/toorji-ka-jhalra.jpg",
+        "alt": "Toorji Ka Jhalra",
+        "width": 640,
+        "height": 480,
+        "author": "Ramesh Deuba",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toorji_Ka_Jhalra.jpg"
+      },
+      "Umaid Bhawan Palace": {
+        "src": "/images/places/jodhpur/umaid-bhawan-palace.jpg",
+        "alt": "Umaid Bhawan Palace",
+        "width": 640,
+        "height": 380,
+        "author": "Dan Lundberg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:1996_-218-20A_Jodhpur_Hotel_Umaid_Bhawan_Palace_(2233393509).jpg"
+      },
+      "Rao Jodha Desert Rock Park": {
+        "src": "/images/places/jodhpur/rao-jodha-desert-rock-park.jpg",
+        "alt": "Rao Jodha Desert Rock Park",
+        "width": 640,
+        "height": 425,
+        "author": "T. R. Shankar Raman",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mehrangarh_RaoJodhaDNP_DSC0158.jpg"
+      },
+      "Kaylana Lake": {
+        "src": "/images/places/jodhpur/kaylana-lake.jpg",
+        "alt": "Kaylana Lake",
+        "width": 640,
+        "height": 480,
+        "author": "Archan dave",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaylana.JPG"
+      },
+      "Osian": {
+        "src": "/images/places/jodhpur/osian.jpg",
+        "alt": "Osian, Rajasthan",
+        "width": 450,
+        "height": 600,
+        "author": "Lakhindr ( talk ) ( Uploads )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Osiyan1_photo_wiki.jpg"
+      },
+      "Khejarli": {
+        "src": "/images/places/jodhpur/khejarli.jpg",
+        "alt": "Khejarli massacre",
+        "width": 640,
+        "height": 840,
+        "author": "Kaushal Bishnoi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:363_Bishnoi_Sacrifice_Memorial.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/jodhpur/hero.jpg",
+      "alt": "Mehrangarh",
+      "width": 1280,
+      "height": 854,
+      "author": "Sanhitasinha",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mehrangarh_Fort_sanhita.jpg"
+    }
+  },
+  "mysuru": {
+    "stops": {
+      "Mysore Palace": {
+        "src": "/images/places/mysuru/mysore-palace.jpg",
+        "alt": "Mysore Palace",
+        "width": 640,
+        "height": 312,
+        "author": "Muhammad Mahdi Karim",
+        "license": "GFDL 1.2",
+        "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mysore_Palace_Morning.jpg"
+      },
+      "Devaraja Market": {
+        "src": "/images/places/mysuru/devaraja-market.jpg",
+        "alt": "Devaraja Market",
+        "width": 640,
+        "height": 425,
+        "author": "Avinash Bhat",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Devaraja_Market,_Mysore_(306989724).jpg"
+      },
+      "Ranganathittu": {
+        "src": "/images/places/mysuru/ranganathittu.jpg",
+        "alt": "Ranganathittu Bird Sanctuary",
+        "width": 640,
+        "height": 480,
+        "author": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would ",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spot-billed_Pelican_Rising_Flight_Ranganathittu_Feb24_D72_26266.jpg"
+      },
+      "Brindavan Gardens": {
+        "src": "/images/places/mysuru/brindavan-gardens.jpg",
+        "alt": "Brindavan Gardens",
+        "width": 640,
+        "height": 480,
+        "author": "Joe Ravi",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brindavan_Gardens.JPG"
+      },
+      "Talakadu": {
+        "src": "/images/places/mysuru/talakadu.jpg",
+        "alt": "Talakadu",
+        "width": 640,
+        "height": 480,
+        "author": "Dineshkannambadi",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vaidyeshvara_Temple_(1000_AD)_at_Talakad.JPG"
+      }
+    },
+    "hero": {
+      "src": "/images/places/mysuru/hero.jpg",
+      "alt": "Mysore Palace",
+      "width": 1280,
+      "height": 624,
+      "author": "Muhammad Mahdi Karim",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mysore_Palace_Morning.jpg"
+    }
+  },
+  "khajuraho": {
+    "stops": {
+      "Kandariya Mahadeva": {
+        "src": "/images/places/khajuraho/kandariya-mahadeva.jpg",
+        "alt": "Kandariya Mahadeva Temple",
+        "width": 640,
+        "height": 480,
+        "author": "China Crisis",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khajuraho.KandariyaMahadeva.jpg"
+      },
+      "Lakshmana Temple": {
+        "src": "/images/places/khajuraho/lakshmana-temple.jpg",
+        "alt": "Lakshmana Temple, Khajuraho",
+        "width": 640,
+        "height": 480,
+        "author": "Christopher Voitus",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khajuraho-Lakshmana_temple.JPG"
+      },
+      "Duladeo Temple": {
+        "src": "/images/places/khajuraho/duladeo-temple.jpg",
+        "alt": "Duladeo Temple",
+        "width": 640,
+        "height": 446,
+        "author": "Marcin Białek",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khajuraho_Dulhadeo_2010.jpg"
+      },
+      "Raneh Falls": {
+        "src": "/images/places/khajuraho/raneh-falls.jpg",
+        "alt": "Raneh Falls",
+        "width": 640,
+        "height": 360,
+        "author": "Syedzohaibullah",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raneh_Falls.jpg"
+      },
+      "Orchha Fort": {
+        "src": "/images/places/khajuraho/orchha-fort.jpg",
+        "alt": "Orchha",
+        "width": 640,
+        "height": 480,
+        "author": "Yann ( talk )",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chaturbhuj_Temple,_Orchha.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/khajuraho/hero.jpg",
+      "alt": "Kandariya Mahadeva Temple",
+      "width": 1280,
+      "height": 960,
+      "author": "China Crisis",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khajuraho.KandariyaMahadeva.jpg"
+    }
+  },
+  "kochi": {
+    "stops": {
+      "Chinese fishing nets": {
+        "src": "/images/places/kochi/chinese-fishing-nets.jpg",
+        "alt": "Chinese fishing nets",
+        "width": 640,
+        "height": 427,
+        "author": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would ",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chinese_Fishing_Net_Raising_Birds_Sunrise_Ashtamudi_Kollam_Mar22_A7C_01784.jpg"
+      },
+      "St Francis Church": {
+        "src": "/images/places/kochi/st-francis-church.jpg",
+        "alt": "Church of Saint Francis, Kochi",
+        "width": 640,
+        "height": 427,
+        "author": "Ranjith Siji",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Francis_Church_Fort_Kochi_DSC_1048.JPG"
+      },
+      "Santa Cruz Basilica": {
+        "src": "/images/places/kochi/santa-cruz-basilica.jpg",
+        "alt": "Santa Cruz Cathedral Basilica, Kochi",
+        "width": 640,
+        "height": 480,
+        "author": "Vis M",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santa_Cruz_Basilica_-_200_MP_03.jpg"
+      },
+      "Mattancherry Palace": {
+        "src": "/images/places/kochi/mattancherry-palace.jpg",
+        "alt": "Mattancherry Palace",
+        "width": 640,
+        "height": 427,
+        "author": "Ranjith Siji",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mattancherry_Palace_DSC_0899.JPG"
+      },
+      "Paradesi Synagogue": {
+        "src": "/images/places/kochi/paradesi-synagogue.jpg",
+        "alt": "Paradesi Synagogue",
+        "width": 640,
+        "height": 480,
+        "author": "jeem from Saint Louis, United States",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jewish_synagouge_kochi_india.jpg"
+      },
+      "Kumbalangi": {
+        "src": "/images/places/kochi/kumbalangi.jpg",
+        "alt": "Kumbalangi",
+        "width": 640,
+        "height": 480,
+        "author": "Aruna",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kumbalangi.JPG"
+      },
+      "Cherai beach": {
+        "src": "/images/places/kochi/cherai-beach.jpg",
+        "alt": "Cherai Beach",
+        "width": 640,
+        "height": 353,
+        "author": "Jan J George",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunrise_at_Cherai_Beach.jpg"
+      },
+      "Alappuzha": {
+        "src": "/images/places/kochi/alappuzha.jpg",
+        "alt": "Alappuzha",
+        "width": 640,
+        "height": 424,
+        "author": "Augustus Binu / facebook",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alappuzha_Boat_Beauty_W.jpg"
+      },
+      "Hill Palace": {
+        "src": "/images/places/kochi/hill-palace.jpg",
+        "alt": "Hill Palace, Kochi",
+        "width": 640,
+        "height": 480,
+        "author": "Gokulvarmank",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hill_Palace_by_GV-1.JPG"
+      }
+    },
+    "hero": {
+      "src": "/images/places/kochi/hero.jpg",
+      "alt": "Chinese fishing nets",
+      "width": 1280,
+      "height": 853,
+      "author": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chinese_Fishing_Net_Raising_Birds_Sunrise_Ashtamudi_Kollam_Mar22_A7C_01784.jpg"
+    }
+  },
+  "madurai": {
+    "stops": {
+      "Thirumalai Nayakkar Mahal": {
+        "src": "/images/places/madurai/thirumalai-nayakkar-mahal.jpg",
+        "alt": "Thirumalai Nayakkar Mahal",
+        "width": 400,
+        "height": 527,
+        "author": "எஸ்ஸார்",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madurai_Nayak_Palace_Collage.jpg"
+      },
+      "Gandhi Memorial Museum": {
+        "src": "/images/places/madurai/gandhi-memorial-museum.jpg",
+        "alt": "Gandhi Memorial Museum, Madurai",
+        "width": 640,
+        "height": 427,
+        "author": "Karthikeyan Balasundaram",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gandhi_Memorial_Museum.jpg"
+      },
+      "Thiruparankundram": {
+        "src": "/images/places/madurai/thiruparankundram.jpg",
+        "alt": "Subramaniya Swamy Temple, Thiruparankundram",
+        "width": 640,
+        "height": 853,
+        "author": "Ssriram mt",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thiruparamkundram_(1).jpg"
+      },
+      "Ramanathaswamy Temple": {
+        "src": "/images/places/madurai/ramanathaswamy-temple.jpg",
+        "alt": "Ramanathaswamy Temple",
+        "width": 640,
+        "height": 853,
+        "author": "Ssriram mt",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramanathaswamy_temple7.JPG"
+      },
+      "Dhanushkodi": {
+        "src": "/images/places/madurai/dhanushkodi.jpg",
+        "alt": "Dhanushkodi railway station",
+        "width": 640,
+        "height": 480,
+        "author": "D Kartikeyan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dhanushkodi_Old_Railway_Station_02.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/madurai/hero.jpg",
+      "alt": "Meenakshi Temple",
+      "width": 1280,
+      "height": 419,
+      "author": "எஸ்ஸார்",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg"
+    }
+  },
+  "varkala": {
+    "stops": {
+      "Ponmudi": {
+        "src": "/images/places/varkala/ponmudi.jpg",
+        "alt": "Ponmudi",
+        "width": 640,
+        "height": 344,
+        "author": "Arunelectra",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morning_at_Ponmudi.jpg"
+      },
+      "Napier Museum": {
+        "src": "/images/places/varkala/napier-museum.jpg",
+        "alt": "Napier Museum",
+        "width": 640,
+        "height": 427,
+        "author": "Prasanth Prakash",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Napier_Museum_TVM.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/varkala/hero.jpg",
+      "alt": "Varkala Beach",
+      "width": 1280,
+      "height": 853,
+      "author": "Kondephy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Varkala_beach_from_above.jpg"
+    }
+  },
+  "puri": {
+    "stops": {
+      "Puri Beach": {
+        "src": "/images/places/puri/puri-beach.jpg",
+        "alt": "Puri (city)",
+        "width": 640,
+        "height": 427,
+        "author": "Subham9423",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shri_Jagannatha_Temple.jpg"
+      },
+      "Jagannath Temple": {
+        "src": "/images/places/puri/jagannath-temple.jpg",
+        "alt": "Jagannath Temple, Puri",
+        "width": 640,
+        "height": 404,
+        "author": "Prachites",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shri_Jagannath_temple.jpg"
+      },
+      "Raghurajpur": {
+        "src": "/images/places/puri/raghurajpur.jpg",
+        "alt": "Raghurajpur",
+        "width": 640,
+        "height": 360,
+        "author": "Rakesh09in",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_of_Raghurajpur.jpg"
+      },
+      "Konark Sun Temple": {
+        "src": "/images/places/puri/konark-sun-temple.jpg",
+        "alt": "Konark Sun Temple",
+        "width": 640,
+        "height": 427,
+        "author": "Subham9423",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Konarka_Temple.jpg"
+      },
+      "Chandrabhaga Beach": {
+        "src": "/images/places/puri/chandrabhaga-beach.jpg",
+        "alt": "Chandrabhaga Beach",
+        "width": 640,
+        "height": 360,
+        "author": "Sidsahu",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandrabhaga_beach.jpg"
+      },
+      "Pipili": {
+        "src": "/images/places/puri/pipili.jpg",
+        "alt": "Pipili",
+        "width": 640,
+        "height": 440,
+        "author": "Bernard Gagnon",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pipili,_Odisha_01.jpg"
+      },
+      "Dhauli": {
+        "src": "/images/places/puri/dhauli.jpg",
+        "alt": "Dhauli",
+        "width": 640,
+        "height": 360,
+        "author": "Government of Odisha",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ShantiSthupa_Dhauli.jpg"
+      },
+      "Lingaraj Temple": {
+        "src": "/images/places/puri/lingaraj-temple.jpg",
+        "alt": "Lingaraja Temple",
+        "width": 640,
+        "height": 853,
+        "author": "Satyakam Parthasarathy",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lingaraj_Temple_,_Bhubaneswar.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/puri/hero.jpg",
+      "alt": "Konark Sun Temple",
+      "width": 1280,
+      "height": 854,
+      "author": "Subham9423",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Konarka_Temple.jpg"
+    }
+  },
+  "kumarakom": {
+    "stops": {
+      "Kumarakom Bird Sanctuary": {
+        "src": "/images/places/kumarakom/kumarakom-bird-sanctuary.jpg",
+        "alt": "Kumarakom Bird Sanctuary",
+        "width": 640,
+        "height": 886,
+        "author": "P.K.Niyogi ( talk )",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerala_Kumarakom_Bird_Sanctuary.jpg"
+      },
+      "Kumarakom village": {
+        "src": "/images/places/kumarakom/kumarakom-village.jpg",
+        "alt": "Kumarakom",
+        "width": 640,
+        "height": 480,
+        "author": "Jigyasu",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kumarkom.jpg"
+      },
+      "Alappuzha Beach": {
+        "src": "/images/places/kumarakom/alappuzha-beach.jpg",
+        "alt": "Alappuzha Beach",
+        "width": 640,
+        "height": 400,
+        "author": "Mohanrangaphotography",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alleppey_beach.jpg"
+      },
+      "Fort Kochi": {
+        "src": "/images/places/kumarakom/fort-kochi.jpg",
+        "alt": "Fort Kochi Beach",
+        "width": 640,
+        "height": 357,
+        "author": "Challiyan at Malayalam Wikipedia",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B4%AB%E0%B5%8B%E0%B4%B0%E0%B5%8D%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D-%E0%B4%95%E0%B5%8A%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%BF-%E0%B4%9A%E0%B5%80%E0%B4%A8%E0%B4%B5%E0%B4%B2%E0%B4%95%E0%B5%BE.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/kumarakom/hero.jpg",
+      "alt": "Kumarakom",
+      "width": 1280,
+      "height": 960,
+      "author": "Jigyasu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kumarkom.jpg"
+    }
+  },
+  "munroe-island": {
+    "stops": {
+      "Munroe Island": {
+        "src": "/images/places/munroe-island/munroe-island.jpg",
+        "alt": "Munroe Island",
+        "width": 640,
+        "height": 337,
+        "author": "Kkkriku",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beautiful_Munroe_Island_,_kollam_district_,_kerala.jpg"
+      },
+      "Kollam Beach": {
+        "src": "/images/places/munroe-island/kollam-beach.jpg",
+        "alt": "Kollam Beach",
+        "width": 640,
+        "height": 360,
+        "author": "Surajram Kumaravel",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kollam,_Kerala.jpg"
+      },
+      "Jatayu Earth's Center": {
+        "src": "/images/places/munroe-island/jatayu-earth-s-center.jpg",
+        "alt": "Jatayu Earth's Center Nature Park",
+        "width": 640,
+        "height": 468,
+        "author": "athulnair",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jatayu_Earth_Centre.jpg"
+      },
+      "Alappuzha Beach": {
+        "src": "/images/places/munroe-island/alappuzha-beach.jpg",
+        "alt": "Alappuzha Beach",
+        "width": 640,
+        "height": 400,
+        "author": "Mohanrangaphotography",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alleppey_beach.jpg"
+      }
+    },
+    "hero": {
+      "src": "/images/places/munroe-island/hero.jpg",
+      "alt": "Munroe Island",
+      "width": 1280,
+      "height": 674,
+      "author": "Kkkriku",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beautiful_Munroe_Island_,_kollam_district_,_kerala.jpg"
+    }
+  },
+  "sundarbans": {
+    "stops": {},
+    "hero": {
+      "src": "/images/places/sundarbans/hero.jpg",
+      "alt": "Sundarbans National Park",
+      "width": 1280,
+      "height": 854,
+      "author": "Soumyajit Nandy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sundarban_Tiger.jpg"
+    }
+  },
+  "bandhavgarh": {
+    "stops": {},
+    "hero": {
+      "src": "/images/places/bandhavgarh/hero.jpg",
+      "alt": "Bandhavgarh National Park",
+      "width": 1280,
+      "height": 482,
+      "author": "This Image was created by User:Archith . If you would like to use the image please mail me at archithrobber@gmail.com",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tigress_in_Bandhavgarh_NP.jpg"
+    }
+  }
+}
