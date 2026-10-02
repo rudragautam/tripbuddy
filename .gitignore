@@ -39,5 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+!.env.example
 
-/lib/generated/prisma
+# local embedded database (PGlite)
+/.data/
+/.e2e-shots/

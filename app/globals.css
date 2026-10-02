@@ -1,41 +1,84 @@
 @import "tailwindcss";
 
+/* Default theme values; destination pages override these through themeVars(). */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --t-bg: #f1eee8;
+  --t-surface: #fcfaf7;
+  --t-ink: #1e2422;
+  --t-muted: #6b716e;
+  --t-accent: #2f6b4f;
+  --t-accent-ink: #ffffff;
+  --t-accent-soft: #dce9df;
+  --t-weather-bg: #2f6b4f;
+  --t-weather-ink: #ffffff;
+  --t-map-land: #d9e6d3;
+  --t-map-line: #ffffff;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-t-bg: var(--t-bg);
+  --color-t-surface: var(--t-surface);
+  --color-t-ink: var(--t-ink);
+  --color-t-muted: var(--t-muted);
+  --color-t-accent: var(--t-accent);
+  --color-t-accent-ink: var(--t-accent-ink);
+  --color-t-accent-soft: var(--t-accent-soft);
+  --color-t-weather-bg: var(--t-weather-bg);
+  --color-t-weather-ink: var(--t-weather-ink);
+  --color-t-map-land: var(--t-map-land);
+  --color-t-map-line: var(--t-map-line);
+  --font-sans: var(--font-jakarta), ui-sans-serif, system-ui, sans-serif;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--t-bg);
+  color: var(--t-ink);
+  font-family: var(--font-sans);
 }
-@keyframes fadeUp {
+
+/* Soft, tactile card from the reference designs: raised surface with a light top edge. */
+@utility tactile {
+  background: var(--t-surface);
+  border-radius: 1.5rem;
+  box-shadow:
+    0 1px 0 rgb(255 255 255 / 0.9) inset,
+    0 1px 2px rgb(0 0 0 / 0.04),
+    0 12px 32px -12px rgb(0 0 0 / 0.18);
+}
+
+@utility tactile-sm {
+  background: var(--t-surface);
+  border-radius: 1rem;
+  box-shadow:
+    0 1px 0 rgb(255 255 255 / 0.9) inset,
+    0 1px 2px rgb(0 0 0 / 0.05),
+    0 6px 16px -8px rgb(0 0 0 / 0.2);
+}
+
+@keyframes rise {
   from {
     opacity: 0;
-    transform: translateY(30px);
+    transform: translateY(12px);
   }
   to {
     opacity: 1;
-    transform: translateY(0);
+    transform: none;
   }
 }
 
-.fade-up {
-  animation: fadeUp 0.8s ease-out forwards;
+@utility rise {
+  animation: rise 0.5s cubic-bezier(0.2, 0.7, 0.2, 1) both;
 }
 
+@media print {
+  body {
+    background: #fff;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}

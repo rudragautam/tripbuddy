@@ -1,0 +1,21 @@
+# Optional local Postgres (instead of the embedded PGlite).
+#   docker compose up -d
+#   DATABASE_URL=postgres://tripbuddy:tripbuddy@localhost:5432/tripbuddy
+services:
+  db:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: tripbuddy
+      POSTGRES_PASSWORD: tripbuddy
+      POSTGRES_DB: tripbuddy
+    ports:
+      - "5432:5432"
+    volumes:
+      - tripbuddy-db:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U tripbuddy"]
+      interval: 5s
+      retries: 10
+
+volumes:
+  tripbuddy-db:
