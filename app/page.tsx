@@ -2,26 +2,14 @@ import Link from "next/link";
 import { ArrowRight, MessageCircle, Route, ShieldCheck } from "lucide-react";
 import { CardGrid } from "@/components/Destination/DestinationCard";
 import HomeHero from "@/components/Home/HomeHero";
-import SceneVisual from "@/components/Scene/SceneVisual";
+import TypeTile from "@/components/Destination/TypeTile";
 import { SiteFooter, SiteHeader } from "@/components/Site/SiteChrome";
 import { getPublishedCards } from "@/lib/data/destinations";
 import { MONTHS, site } from "@/lib/site";
-import { themeVars, themes } from "@/lib/themes";
-import { TOUR_TYPES, type TourType } from "@/lib/types";
+import { coverCard } from "@/lib/themes";
+import { TOUR_TYPES } from "@/lib/types";
 
 export const dynamic = "force-dynamic";
-
-/** Cover destination per trip type on the home page (hand-picked for the best photo). */
-const TYPE_COVER: Record<TourType, string> = {
-  hills: "munnar",
-  mountain: "spiti-valley",
-  desert: "jaisalmer",
-  beach: "varkala",
-  backwaters: "alleppey",
-  heritage: "agra",
-  wildlife: "jim-corbett",
-  snow: "auli",
-};
 
 const steps = [
   {
@@ -53,13 +41,6 @@ export default async function Home() {
   const fresh = featuredAll.filter((c) => !shown.has(c.slug));
   const featured = (fresh.length >= 3 ? fresh : featuredAll).slice(0, 6);
   const counts = new Map(TOUR_TYPES.map((t) => [t, cards.filter((c) => c.tourType === t).length]));
-  // One real photo per trip type for the browse tiles: the most scenic shot, else the first with a photo.
-  const typePhoto = new Map(
-    TOUR_TYPES.map((t) => [
-      t,
-      cards.find((c) => c.slug === TYPE_COVER[t] && c.heroImage) ?? cards.find((c) => c.tourType === t && c.heroImage),
-    ]),
-  );
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -103,28 +84,8 @@ export default async function Home() {
           <p className="mt-2 text-t-muted">Every trip type has its own look, from tea hills to tiger country.</p>
           <ul className="mt-8 grid grid-cols-2 gap-4 md:grid-cols-4">
             {TOUR_TYPES.map((t) => (
-              <li key={t} style={themeVars(t)}>
-                <Link
-                  href={`/explore/${t}`}
-                  className="group block h-full rounded-3xl bg-t-bg p-3 text-t-ink transition-transform hover:-translate-y-1"
-                >
-                  <div className="px-1 pt-1 pb-3">
-                    <SceneVisual
-                      type={t}
-                      name={themes[t].label}
-                      photo={typePhoto.get(t)?.heroImage}
-                      compact
-                      showCredit={false}
-                      sizes="(min-width: 768px) 22vw, 45vw"
-                    />
-                  </div>
-                  <div className="px-2 pb-2">
-                    <p className="font-bold">{themes[t].label}</p>
-                    <p className="text-xs text-t-muted">
-                      {counts.get(t)} {counts.get(t) === 1 ? "plan" : "plans"} · {themes[t].blurb}
-                    </p>
-                  </div>
-                </Link>
+              <li key={t}>
+                <TypeTile type={t} count={counts.get(t) ?? 0} photo={coverCard(cards, t)?.heroImage} />
               </li>
             ))}
           </ul>

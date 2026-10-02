@@ -159,3 +159,25 @@ export function themeVars(type: TourType): CSSProperties {
     "--t-map-line": t.mapLine,
   } as CSSProperties;
 }
+
+/** Cover destination per trip type (hand-picked for the best photo). */
+export const TYPE_COVER: Record<TourType, string> = {
+  hills: "munnar",
+  mountain: "spiti-valley",
+  desert: "jaisalmer",
+  beach: "varkala",
+  backwaters: "alleppey",
+  heritage: "agra",
+  wildlife: "jim-corbett",
+  snow: "auli",
+};
+
+/** The cover card for a trip type: the hand-picked one, else the first with a photo. */
+export function coverCard<C extends { slug: string; tourType: TourType; heroImage?: unknown }>(
+  cards: C[],
+  type: TourType,
+): C | undefined {
+  return (
+    cards.find((c) => c.slug === TYPE_COVER[type] && c.heroImage) ?? cards.find((c) => c.tourType === type && c.heroImage)
+  );
+}

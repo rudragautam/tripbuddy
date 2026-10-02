@@ -21,6 +21,21 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "res.cloudinary.com" },
     ],
   },
+  async redirects() {
+    // Spellings people type for trip types (/explore/hill → /explore/hills).
+    const aliases: Record<string, string> = {
+      hill: "hills",
+      mountains: "mountain",
+      deserts: "desert",
+      beaches: "beach",
+      backwater: "backwaters",
+    };
+    return Object.entries(aliases).map(([from, to]) => ({
+      source: `/explore/${from}`,
+      destination: `/explore/${to}`,
+      permanent: true,
+    }));
+  },
   async headers() {
     return [
       { source: "/:path*", headers: securityHeaders },
