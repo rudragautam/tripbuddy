@@ -10,7 +10,8 @@ import { MONTHS, site } from "@/lib/site";
 import { coverCard } from "@/lib/themes";
 import { TOUR_TYPES } from "@/lib/types";
 
-export const dynamic = "force-dynamic";
+/** Static page rebuilt hourly (matches the destination data cache), so the edge can serve it. */
+export const revalidate = 3600;
 
 export const metadata: Metadata = {
   alternates: { canonical: "/" },
@@ -110,7 +111,7 @@ export default async function Home() {
               </Link>
             </div>
             <div className="mt-8">
-              <CardGrid cards={thisMonth} />
+              <CardGrid cards={thisMonth} priorityCount={3} />
             </div>
           </section>
         )}
@@ -126,7 +127,7 @@ export default async function Home() {
               </Link>
             </div>
             <div className="mt-8">
-              <CardGrid cards={featured} />
+              <CardGrid cards={featured} priorityCount={thisMonth.length > 0 ? 0 : 3} />
             </div>
           </section>
         )}

@@ -11,7 +11,12 @@ import { MONTHS } from "@/lib/site";
 import { coverCard, themeVars, themes } from "@/lib/themes";
 import { TOUR_TYPES, type TourType } from "@/lib/types";
 
-export const dynamic = "force-dynamic";
+/** One static page per trip type, rebuilt hourly (matches the destination data cache). */
+export const revalidate = 3600;
+
+export function generateStaticParams() {
+  return TOUR_TYPES.map((type) => ({ type }));
+}
 
 type Props = { params: Promise<{ type: string }> };
 

@@ -98,7 +98,7 @@ export default async function DestinationsPage({ searchParams }: { searchParams:
         </div>
 
         {cards.length > 0 ? (
-          <CardGrid cards={cards} days={days} />
+          <CardGrid cards={cards} days={days} priorityCount={3} heading="h2" />
         ) : (
           <div className="tactile p-8 text-center">
             <p className="text-lg font-semibold">No plans match yet</p>

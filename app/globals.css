@@ -5,7 +5,7 @@
   --t-bg: #f1eee8;
   --t-surface: #fcfaf7;
   --t-ink: #1e2422;
-  --t-muted: #6b716e;
+  --t-muted: #5f6562; /* 5.1:1 on --t-bg (WCAG AA needs 4.5) */
   --t-accent: #2f6b4f;
   --t-accent-ink: #ffffff;
   --t-accent-soft: #dce9df;

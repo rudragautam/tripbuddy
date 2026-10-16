@@ -8,7 +8,8 @@ import { getDb } from "@/lib/db";
 import { destinations } from "@/lib/db/schema";
 import type { Photo } from "@/lib/types";
 
-export const dynamic = "force-dynamic";
+/** Served from cache and rebuilt hourly; the query below shares the destinations cache tag. */
+export const revalidate = 3600;
 
 export const metadata: Metadata = {
   title: "Photo credits",

@@ -21,8 +21,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const d = await getPublishedDestination(slug);
   if (!d) return { title: "Destination not found" };
-  const title = `${d.name} itinerary: free ${d.minDays} to ${d.days.length} day plans`;
-  const description = `${d.summary} Free day-by-day ${d.name} itinerary with map, weather, best time to visit and budget.`;
+  const title = `${d.name}: free ${d.minDays}–${d.days.length} day itinerary`;
+  const description = metaDescription(d.summary, "Free day-by-day plan with map, weather and budget.");
   return {
     title,
     description,
@@ -35,6 +35,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       ...(d.heroImage ? { images: [{ url: d.heroImage.src, width: d.heroImage.width, height: d.heroImage.height, alt: d.heroImage.alt }] } : {}),
     },
   };
+}
+
+/** Search snippets are cut at about 155 characters: add the suffix only when it fits, else trim the summary at a word. */
+const MAX_DESCRIPTION = 155;
+function metaDescription(summary: string, suffix: string) {
+  const joined = `${summary} ${suffix}`;
+  if (joined.length <= MAX_DESCRIPTION) return joined;
+  if (summary.length <= MAX_DESCRIPTION) return summary;
+  return `${summary.slice(0, MAX_DESCRIPTION - 1).replace(/\s+\S*$/, "")}…`;
 }
 
 function clampDays(raw: string | undefined, d: Destination) {
@@ -73,6 +82,20 @@ function jsonLd(d: Destination, days: number) {
   };
 }
 
+function breadcrumbs(d: Destination) {
+  const crumbs = [
+    { name: "Home", item: `${site.url}/` },
+    { name: "Destinations", item: `${site.url}/destinations` },
+    { name: themes[d.tourType].label, item: `${site.url}/explore/${d.tourType}` },
+    { name: d.name, item: `${site.url}/destinations/${d.slug}` },
+  ];
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: crumbs.map((c, i) => ({ "@type": "ListItem", position: i + 1, name: c.name, item: c.item })),
+  };
+}
+
 export default async function DestinationPage({ params, searchParams }: Props) {
   const { slug } = await params;
   const { days: daysParam } = await searchParams;
@@ -92,6 +115,10 @@ export default async function DestinationPage({ params, searchParams }: Props) {
         type="application/ld+json"
         // JSON.stringify output with "<" escaped cannot break out of the script tag
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd(destination, initialDays)).replace(/</g, "\\u003c") }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbs(destination)).replace(/</g, "\\u003c") }}
       />
       <Planner
         destination={destination}

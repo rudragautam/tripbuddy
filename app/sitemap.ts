@@ -3,7 +3,8 @@ import { getPublishedCards } from "@/lib/data/destinations";
 import { site } from "@/lib/site";
 import { TOUR_TYPES } from "@/lib/types";
 
-export const dynamic = "force-dynamic";
+/** Rebuilt hourly, matching the destination data cache. */
+export const revalidate = 3600;
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const cards = await getPublishedCards();
@@ -20,5 +21,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${site.url}/about`, changeFrequency: "yearly", priority: 0.4 },
     { url: `${site.url}/enquire`, changeFrequency: "yearly", priority: 0.5 },
     { url: `${site.url}/credits`, changeFrequency: "monthly", priority: 0.2 },
+    { url: `${site.url}/privacy`, changeFrequency: "yearly", priority: 0.1 },
+    { url: `${site.url}/terms`, changeFrequency: "yearly", priority: 0.1 },
   ];
 }

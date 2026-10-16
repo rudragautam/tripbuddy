@@ -4,7 +4,21 @@ import SceneVisual from "@/components/Scene/SceneVisual";
 import type { DestinationCard as Card } from "@/lib/catalog";
 import { themeVars, themes } from "@/lib/themes";
 
-export default function DestinationCard({ card, days }: { card: Card; days?: number }) {
+type Heading = "h2" | "h3";
+
+export default function DestinationCard({
+  card,
+  days,
+  priority = false,
+  heading: Heading = "h3",
+}: {
+  card: Card;
+  days?: number;
+  /** Preload the photo: set on cards that are visible on first paint (the page's largest element). */
+  priority?: boolean;
+  /** Heading level, so the card fits the page outline (h2 when it sits directly under the page h1). */
+  heading?: Heading;
+}) {
   const href = days ? `/destinations/${card.slug}?days=${days}` : `/destinations/${card.slug}`;
   return (
     <div style={themeVars(card.tourType)} className="h-full">
@@ -18,15 +32,16 @@ export default function DestinationCard({ card, days }: { card: Card; days?: num
             name={card.name}
             photo={card.heroImage}
             compact
+            priority={priority}
             showCredit={false}
-            sizes="(min-width: 1024px) 30vw, (min-width: 640px) 45vw, 90vw"
+            sizes="(min-width: 1024px) 28vw, (min-width: 640px) 42vw, 85vw"
           />
         </div>
         <div className="tactile -mt-4 flex flex-1 flex-col p-5">
           <p className="text-xs font-semibold tracking-[0.18em] text-t-accent uppercase">
             {themes[card.tourType].label} · {card.state}
           </p>
-          <h3 className="mt-1 text-xl font-bold">{card.name}</h3>
+          <Heading className="mt-1 text-xl font-bold">{card.name}</Heading>
           <p className="mt-1 line-clamp-2 text-sm text-t-muted">{card.summary}</p>
           <div className="mt-auto flex items-center justify-between pt-4 text-sm">
             <span className="text-t-muted">
@@ -40,12 +55,23 @@ export default function DestinationCard({ card, days }: { card: Card; days?: num
   );
 }
 
-export function CardGrid({ cards, days }: { cards: Card[]; days?: number }) {
+export function CardGrid({
+  cards,
+  days,
+  priorityCount = 0,
+  heading,
+}: {
+  cards: Card[];
+  days?: number;
+  /** How many leading cards are above the fold and should preload their photo. */
+  priorityCount?: number;
+  heading?: Heading;
+}) {
   return (
     <ul className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-      {cards.map((c) => (
+      {cards.map((c, i) => (
         <li key={c.slug}>
-          <DestinationCard card={c} days={days} />
+          <DestinationCard card={c} days={days} priority={i < priorityCount} heading={heading} />
         </li>
       ))}
     </ul>

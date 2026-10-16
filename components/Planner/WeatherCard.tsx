@@ -16,7 +16,7 @@ export default function WeatherCard({ weather, place }: { weather: Weather; plac
   if (!weather.live) {
     return (
       <section className="rounded-3xl bg-t-weather-bg p-5 text-t-weather-ink shadow-xl">
-        <p className="text-sm opacity-80">Weather in {place}</p>
+        <p className="text-sm opacity-90">Weather in {place}</p>
         <p className="mt-2 text-lg font-semibold">Live weather is unavailable right now.</p>
       </section>
     );
@@ -31,7 +31,7 @@ export default function WeatherCard({ weather, place }: { weather: Weather; plac
         <SkyIcon sky={weather.sky} isDay={weather.isDay} className="size-12 text-amber-300" />
         <div>
           <p className="text-4xl font-semibold leading-none">{weather.temp}°</p>
-          <p className="mt-1 text-sm opacity-80">
+          <p className="mt-1 text-sm opacity-90">
             {weather.sky === "clear" && !weather.isDay ? "Clear" : skyLabel[weather.sky]} · {place}
           </p>
         </div>
@@ -39,7 +39,7 @@ export default function WeatherCard({ weather, place }: { weather: Weather; plac
       <ul className="mt-5 grid grid-cols-5 gap-1 text-center">
         {weather.slots.map((s) => (
           <li key={s.label} className="flex flex-col items-center gap-1.5">
-            <span className="text-xs opacity-75">{s.label}</span>
+            <span className="text-xs opacity-90">{s.label}</span>
             <SkyIcon sky={s.sky} isDay={s.isDay} className="size-5 text-amber-200" />
             <span className="text-sm font-semibold">{s.temp}°</span>
           </li>

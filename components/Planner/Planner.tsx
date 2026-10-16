@@ -113,9 +113,9 @@ export default function Planner({
 
             <section id="plan" aria-labelledby="plan-heading" className="order-5 scroll-mt-6 lg:order-none">
               <div className="mb-4 flex flex-wrap items-baseline justify-between gap-2">
-                <h1 id="plan-heading" className="text-xl font-bold tracking-tight">
+                <h2 id="plan-heading" className="text-xl font-bold tracking-tight">
                   {days}-day {destination.name} itinerary
-                </h1>
+                </h2>
                 <span className="text-xs text-t-muted">Last checked {formatDate(destination.lastChecked)}</span>
               </div>
               <DayTimeline days={plan} activeDay={activeDay} onSelectDay={setActiveDay} />
