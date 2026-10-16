@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowRight, MessageCircle, Route, ShieldCheck } from "lucide-react";
 import { CardGrid } from "@/components/Destination/DestinationCard";
@@ -10,6 +11,10 @@ import { coverCard } from "@/lib/themes";
 import { TOUR_TYPES } from "@/lib/types";
 
 export const dynamic = "force-dynamic";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+};
 
 const steps = [
   {

@@ -19,6 +19,9 @@ export const metadata: Metadata = {
   applicationName: site.name,
   openGraph: { siteName: site.name, locale: "en_IN", type: "website" },
   twitter: { card: "summary_large_image" },
+  ...(process.env.GOOGLE_SITE_VERIFICATION
+    ? { verification: { google: process.env.GOOGLE_SITE_VERIFICATION } }
+    : {}),
 };
 
 export const viewport: Viewport = {
