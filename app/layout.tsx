@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Plus_Jakarta_Sans } from "next/font/google";
+import WhatsAppBubble from "@/components/Site/WhatsAppBubble";
 import { site } from "@/lib/site";
 import "./globals.css";
 
@@ -43,6 +44,7 @@ export default function RootLayout({
           Skip to content
         </a>
         {children}
+        <WhatsAppBubble number={site.whatsapp} />
       </body>
     </html>
   );
